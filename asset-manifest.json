@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/random-toggle-switcher/static/css/main.7b166888.chunk.css",
+    "main.js": "/random-toggle-switcher/static/js/main.45ac0a12.chunk.js",
+    "main.js.map": "/random-toggle-switcher/static/js/main.45ac0a12.chunk.js.map",
+    "runtime-main.js": "/random-toggle-switcher/static/js/runtime-main.252be10f.js",
+    "runtime-main.js.map": "/random-toggle-switcher/static/js/runtime-main.252be10f.js.map",
+    "static/css/2.d6699640.chunk.css": "/random-toggle-switcher/static/css/2.d6699640.chunk.css",
+    "static/js/2.bffcc640.chunk.js": "/random-toggle-switcher/static/js/2.bffcc640.chunk.js",
+    "static/js/2.bffcc640.chunk.js.map": "/random-toggle-switcher/static/js/2.bffcc640.chunk.js.map",
+    "static/js/3.19854f82.chunk.js": "/random-toggle-switcher/static/js/3.19854f82.chunk.js",
+    "static/js/3.19854f82.chunk.js.map": "/random-toggle-switcher/static/js/3.19854f82.chunk.js.map",
+    "index.html": "/random-toggle-switcher/index.html",
+    "static/css/2.d6699640.chunk.css.map": "/random-toggle-switcher/static/css/2.d6699640.chunk.css.map",
+    "static/css/main.7b166888.chunk.css.map": "/random-toggle-switcher/static/css/main.7b166888.chunk.css.map",
+    "static/js/2.bffcc640.chunk.js.LICENSE.txt": "/random-toggle-switcher/static/js/2.bffcc640.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/random-toggle-switcher/static/media/outline-icons.ddae9b1b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.252be10f.js",
+    "static/css/2.d6699640.chunk.css",
+    "static/js/2.bffcc640.chunk.js",
+    "static/css/main.7b166888.chunk.css",
+    "static/js/main.45ac0a12.chunk.js"
+  ]
+}
